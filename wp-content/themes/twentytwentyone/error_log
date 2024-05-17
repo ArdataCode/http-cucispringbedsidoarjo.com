@@ -1,0 +1,4 @@
+[24-Mar-2024 06:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ujianori/cucispringbedsidoarjo.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucispringbedsidoarjo.com/wp-content/themes/twentytwentyone/index.php on line 17

@@ -1,0 +1,8 @@
+[28-Jan-2024 06:25:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cucispringbedsidoarjo.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucispringbedsidoarjo.com/wp-includes/blocks/index.php on line 8
+[13-Mar-2024 08:40:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cucispringbedsidoarjo.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucispringbedsidoarjo.com/wp-includes/blocks/index.php on line 8

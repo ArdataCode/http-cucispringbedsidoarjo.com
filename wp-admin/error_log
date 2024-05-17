@@ -1,0 +1,15 @@
+[04-Mar-2023 04:57:11 UTC] DUP:Error deactivate license: ACTIVATION_RESPONSE_INVALID
+[24-Jan-2024 06:11:28 UTC] PHP Warning:  require(/home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/elementor-pro/plugin.php): Failed to open stream: No such file or directory in /home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 92
+[24-Jan-2024 06:11:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/elementor-pro/plugin.php' (include_path='/home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/wp-media-folder-addon/class:/home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/wp-media-folder-addon/class:.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/elementor-pro/elementor-pro.php:92
+Stack trace:
+#0 /home/ujianori/cucispringbedsidoarjo.com/wp-includes/class-wp-hook.php(324): elementor_pro_load_plugin()
+#1 /home/ujianori/cucispringbedsidoarjo.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /home/ujianori/cucispringbedsidoarjo.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ujianori/cucispringbedsidoarjo.com/wp-settings.php(506): do_action()
+#4 /home/ujianori/cucispringbedsidoarjo.com/wp-config.php(80): require_once('/home/ujianori/...')
+#5 /home/ujianori/cucispringbedsidoarjo.com/wp-load.php(50): require_once('/home/ujianori/...')
+#6 /home/ujianori/cucispringbedsidoarjo.com/wp-admin/admin-ajax.php(22): require_once('/home/ujianori/...')
+#7 {main}
+  thrown in /home/ujianori/cucispringbedsidoarjo.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 92
+[31-Jan-2024 01:24:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/cucispringbedsidoarjo.com/wp-admin/includes/translation-install.php on line 68
+[31-Jan-2024 01:25:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/cucispringbedsidoarjo.com/wp-includes/update.php on line 449
